@@ -1,7 +1,7 @@
 # PCD Flooring Corporation
 
 ## Team Members
-- Dixaben Patel
+- Dixa Patel
 - Edward Chung
 - Yang Dai
 
